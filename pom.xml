@@ -228,7 +228,8 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>32.0.1-jre</version>
+      <version>3.1.5</version>
+      <!--<version>32.0.1-jre</version>-->
     </dependency>
 
     <!-- Azure -->
